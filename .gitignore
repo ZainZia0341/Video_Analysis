@@ -1,0 +1,17 @@
+.env
+
+newEnvAudio
+
+
+chroma_db
+
+embedding_model
+
+extracted_audio
+
+llm_model
+
+transcription_results
+
+audio_model
+
